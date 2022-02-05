@@ -1,0 +1,2 @@
+# sc-bot
+SC BOT
